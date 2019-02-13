@@ -7,8 +7,9 @@
   name = "github.com/mitchellh/mapstructure"
 
 [[constraint]]
-  branch = "master"
+  branch = "teams"
   name = "github.com/russellcardullo/go-pingdom"
+  source = "https://github.com/kevinburkenotion/go-pingdom.git"
 
 [prune]
   go-tests = true
